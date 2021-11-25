@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Projeto final que consiste em criar uma API que contenha todo o CRUD, em 5 rotas distintas, sobre o tema Pokémon (escolhido pelos autores), as quais são:",
   "main": "index.js",
+  "engine": {
+    "node": "14.18.1"
+  },
   "scripts": {
     "start": "node index",
     "dev": "nodemon index",
