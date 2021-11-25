@@ -8,8 +8,7 @@
   },
   "scripts": {
     "start": "node index",
-    "dev": "nodemon index",
-    "script": "node index"
+    "dev": "nodemon index"
   },
   "author": "",
   "license": "ISC",
